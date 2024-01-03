@@ -6,16 +6,16 @@
 * Desenvolver habilidades na identificação de mensagens e sites falsos.
 * Aprender a distinguir entre comunicações legítimas e tentativas de fraude online.
 ### Ferramentas
-* ___Kali Linux___
-* ___setoolkit___
+* <code>Kali Linux</code>
+* <code>setoolkit</code>
 ### Configurando o Phishing no Kali Linux
-* Acesso root: ___sudo su___
-* Iniciando o setoolkit: ___setoolkit___
-* Tipo de ataque: ___Social-Engineering Attacks___
-* Vetor de ataque: ___Web Site Attack Vectors___
-* Método de ataque: ___Credential Harvester Attack Method___
-* Método de ataque: ___Site Cloner___
-* Obtendo o endereço da máquina: ___ifconfig___
+* Acesso root: <code>sudo su</code>
+* Iniciando o setoolkit: <code>setoolkit</code>
+* Tipo de ataque: <code>Social-Engineering Attacks</code>
+* Vetor de ataque: <code>Web Site Attack Vectors</code>
+* Método de ataque: <code>Credential Harvester Attack Method</code>
+* Método de ataque: <code>Site Cloner</code>
+* Obtendo o endereço da máquina: <code>ifconfig</code>
 * URL para clone: https://facebook.com
 ### Resultados
 ![](https://github.com/cassiano-dio/cibersecurity-desafio-phishing/raw/master/passwd.png)
